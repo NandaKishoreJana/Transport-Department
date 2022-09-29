@@ -1,0 +1,5 @@
+MILESTONES 1: Get liecence.
+MILESTONES 2: Change address (if any).
+MILESTONES 3: Register the vehicles.
+MILESTONES 4: Change Ownership.
+MILESTONES 5: App sit contract permit.
